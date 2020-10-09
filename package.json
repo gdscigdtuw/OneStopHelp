@@ -1,0 +1,19 @@
+{
+  "name": "onestophelp",
+  "version": "1.0.0",
+  "description": "![Capture](https://user-images.githubusercontent.com/55687908/95570511-a65b7e80-0a44-11eb-9e86-76dc4fb058d4.PNG)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dscigdtuw/OneStopHelp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dscigdtuw/OneStopHelp/issues"
+  },
+  "homepage": "https://github.com/dscigdtuw/OneStopHelp#readme"
+}
