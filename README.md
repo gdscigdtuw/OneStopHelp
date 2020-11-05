@@ -1,4 +1,4 @@
-![Capture](https://user-images.githubusercontent.com/55687908/95570511-a65b7e80-0a44-11eb-9e86-76dc4fb058d4.PNG)
+<img src="https://user-images.githubusercontent.com/55687908/98227536-70df7d80-1f7d-11eb-9714-f7db92c25822.jpg" height="30%" width="30%">
 
 # OneStopHelp :handshake:
 
@@ -60,7 +60,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 # LICENSE :
 `MIT License`
 
-![](https://camo.githubusercontent.com/87df8c3c71a2e199d14376508b126c1b71e68ef0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78555047634a4779384939323879496c41512f67697068792e676966)
+<img src="https://camo.githubusercontent.com/87df8c3c71a2e199d14376508b126c1b71e68ef0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78555047634a4779384939323879496c41512f67697068792e676966" height= "30%" width="30%">
 
 * [LICENSE](https://github.com/dscigdtuw/WebD/blob/master/OneStopHelp/LICENSE)
 * Copyright 2020 
