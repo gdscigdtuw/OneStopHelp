@@ -1,6 +1,6 @@
 .image {
    background-color: #490d40;
-   background: url(header.jpg) no-repeat center center;
+   background: url(/img/header.jpg) no-repeat center center;
    background-size: cover;
    height: 570px;
    margin-top: -20px;
