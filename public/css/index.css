@@ -36,6 +36,7 @@
  .navbar-default .navbar-brand {
    margin-top: 10px;
    color: white;
+   align-self: flex-end;
 }
  .navbar-default .navbar-nav > li > a {
    color: white;
