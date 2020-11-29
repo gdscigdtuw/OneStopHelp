@@ -54,7 +54,7 @@
    border-color: #F1948A;
    background-color: #ffffff;
 }
- .navbar-default .navbar-toggle:hover,  {
+ .navbar-default .navbar-toggle:hover  {
    background-color: #F1948A;
 }
 /* .navbar-default .navbar-toggle .icon-bar {
@@ -263,3 +263,4 @@ footer{
   }
    
   
+}
