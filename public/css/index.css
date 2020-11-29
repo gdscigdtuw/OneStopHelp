@@ -34,9 +34,9 @@
    transition: background-color 1s ease 0s;
 }
  .navbar-default .navbar-brand {
-   margin-top: 10px;
+  /* margin-top: 10px;*/
    color: white;
-   align-self: flex-end;
+   margin-left: 0%;
 }
  .navbar-default .navbar-nav > li > a {
    color: white;
