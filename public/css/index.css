@@ -34,8 +34,9 @@
    transition: background-color 1s ease 0s;
 }
  .navbar-default .navbar-brand {
-   margin-top: 10px;
+  /* margin-top: 10px;*/
    color: white;
+   margin-left: 0%;
 }
  .navbar-default .navbar-nav > li > a {
    color: white;
@@ -54,7 +55,7 @@
    border-color: #F1948A;
    background-color: #ffffff;
 }
- .navbar-default .navbar-toggle:hover,  {
+ .navbar-default .navbar-toggle:hover  {
    background-color: #F1948A;
 }
 /* .navbar-default .navbar-toggle .icon-bar {
@@ -263,3 +264,4 @@ footer{
   }
    
   
+}
