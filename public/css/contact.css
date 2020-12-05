@@ -1,7 +1,7 @@
 body
 {
 	background-color: #000;
-	background-image: url("header.jpg");
+	background-image: url("../img/header.jpg");
 	background-size: cover;
 	background-repeat:no-repeat;
 	width: 100%;
@@ -98,7 +98,7 @@ body
 .link {
   color: white; 
 }
-.link: hover {
+.link  hover {
   color: blue;
   text-decoration: underline;
 }
