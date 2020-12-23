@@ -1,19 +1,61 @@
-body
-{
+body {
 	background-color: #000;
 	background-image: url("../img/header.jpg");
 	background-size: cover;
 	background-repeat:no-repeat;
 	width: 100%;
 	height: 100%;
-  
+}
+
+.navbar {
+	height: 80px;
+	border: none;
+	z-index: 100;
+	/* padding: 0 4%; */
+}
+.navbar-default{
+	background-image: none;
+	background-color: #373A36;
+  box-shadow: 0 0 4px grey;
+	border-radius: 0;
+}
+/* .navbar-default .navbar-brand {
+ margin-top: 10px;
+	color: white;
+	margin-left: 0%;
+} */
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	margin: 10px 5px 5px 5px;
+}
+.navbar-default .navbar-toggle {
+	border-color: #F1948A;
+	background-color: #ffffff;
+}
+.navbar-default .navbar-toggle:hover  {
+	background-color: #F1948A;
+}
+.navbar-default .navbar-collapse.collapse.in ul {
+	background-color: #373A36;
+}
+.navbar-default .navbar-collapse.collapse.in li a {
+	background-color: #373A36;
+	text-align: center;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
+	color: #F1948A;
+	border: 1px solid #F1948A;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background-color: transparent;
+	color: #F1948A;
 }
 
 .container{
-	margin-top:5%;
+	margin-top: 3%;
 	margin-bottom: 5%;
 	background: rgba(0,0,0,0.5);
-	padding:2% 2%;	
+	padding:2% 2%;
 	color:#fff;
 	border-radius: 2%;
 }
@@ -33,9 +75,7 @@ body
 }
 
 .vr{
-	
 	text-align: center;
-	 
 }
 
 #des {
@@ -96,10 +136,9 @@ body
 }
 
 .link {
-  color: white; 
+  color: white;
 }
 .link  hover {
   color: blue;
   text-decoration: underline;
 }
-
