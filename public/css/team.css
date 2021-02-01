@@ -15,7 +15,7 @@ h4 {
 
 /*    NAVBAR         */
 
- .navbar {
+ /* .navbar {
     height: 80px;
     width: 100%;
     background: teal;
@@ -107,7 +107,7 @@ a:hover {
     .navbar ul.show {
         left: 0;
     }
-}
+} */
 
 
 /*    NAVBAR  ENDS         */
