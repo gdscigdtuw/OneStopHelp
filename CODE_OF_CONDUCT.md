@@ -65,6 +65,15 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+## Maintainer's responsibilities
+
+It is every maintainer's responsibility to:
+
+Expose a clear roadmap for improving their component.
+Deliver prompt feedback and decisions on pull requests.
+Be available to anyone with questions, bug reports, criticism etc. on their component. This includes IRC and GitHub issues and pull requests.
+Make sure their component respects the philosophy, design and roadmap of the project.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
