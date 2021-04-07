@@ -25,10 +25,10 @@ This website will help students by providing all the resources and help to succe
 # Tools :wrench: :
 
 Tools used will be:
-* HTML
-* CSS
-* JavaScript
-* NodeJs
+1. HTML
+2. CSS
+3. JavaScript
+4. NodeJs
 
 
 # Folder Structure
