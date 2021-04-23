@@ -1,0 +1,70 @@
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.details {
+    overflow: hidden;
+    padding: 3em 0em;
+    background: #E3F0F7;
+    text-align: center;
+    margin-top: 5em;
+}
+
+#footer #col1,
+#footer #col2,
+#footer #col3 {
+    float: left;
+    width: 320px;
+    padding: 0px 40px 0px 40px;
+}
+
+#footer #icon {
+    display: block;
+    margin-bottom: 1em;
+    font-size: 3em;
+}
+
+.copyright {
+    overflow: hidden;
+    padding: 3em 0em;
+    border-top: 20px solid rgba(255, 255, 255, 0.08);
+    text-align: center;
+    background: teal;
+}
+
+.p {
+    letter-spacing: 1px;
+    font-size: 0.90em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.copyright a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+ul.contact {
+    margin: 0;
+    padding: 2em 0em 0em 0em;
+    list-style: none;
+}
+
+ul.contact li {
+    display: inline;
+    margin: 4px;
+}
+
+ul.contact li a {
+    color: #FFF;
+    display: inline-block;
+    background: black;
+    padding: 10px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}

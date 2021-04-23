@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: montserrat;
+}
+
+.navbar {
+    height: 80px;
+    width: 100%;
+    background: teal;
+}
+
+label.logo {
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    padding: 0 100px;
+    line-height: 80px;
+}
+
+.navbar ul {
+    float: right;
+    margin-right: 40px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+
+.navbar a {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    padding: 0;
+    border-radius: 3px;
+}
+
+.navlink a,
+a:hover {
+    border: 1px solid white;
+    padding: 4px;
+    transition: .5s;
+}
+
+.material-icons {
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    float: right;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+@media (max-width: 1048px) {
+    .material-icons {
+        font-size: 32px;
+        padding-left: 60px;
+    }
+    .navbar ul {
+        margin-right: 20px;
+    }
+    .navlink a {
+        font-size: 17px;
+    }
+}
+
+@media (max-width :909px) {
+    .material-icons {
+        display: block;
+    }
+    .navbar ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #2f3640;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+    }
+    .navbar li {
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+    .navbar a {
+        font-size: 20px;
+    }
+    .navbar a.active,
+    a:hover {
+        border: none;
+        color: blue;
+    }
+    .navbar ul.show {
+        left: 0;
+    }
+}
+
+.image {
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    border: solid 1px black;
+}
+
+.link {
+    text-align: center;
+}
