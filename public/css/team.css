@@ -43,6 +43,7 @@ h4 {
 .navbar-default .navbar-nav>li>a:focus {
     color: #2cc1ee;
     border: 1px solid #2cc1ee;
+    border-radius: 5px;
 }
 
 .navbar-default .navbar-nav>.active>a,
