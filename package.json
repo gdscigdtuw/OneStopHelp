@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dscigdtuw/OneStopHelp#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
